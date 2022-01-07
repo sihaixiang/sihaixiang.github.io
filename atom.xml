@@ -6,7 +6,7 @@
   <link href="http://sihaixiang.github.io/atom.xml" rel="self"/>
   
   <link href="http://sihaixiang.github.io/"/>
-  <updated>2022-01-07T05:42:49.009Z</updated>
+  <updated>2022-01-07T10:44:35.056Z</updated>
   <id>http://sihaixiang.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据库系统</title>
+    <link href="http://sihaixiang.github.io/2022/01/08/shu-ju-ku-xi-tong/"/>
+    <id>http://sihaixiang.github.io/2022/01/08/shu-ju-ku-xi-tong/</id>
+    <published>2022-01-07T18:39:04.000Z</published>
+    <updated>2022-01-07T10:44:35.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数据库&quot;&gt;&lt;a href=&quot;#数据库&quot; class=&quot;headerlink&quot; title=&quot;数据库&quot;&gt;&lt;/a&gt;数据库&lt;/h1&gt;&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="http://sihaixiang.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="计算机" scheme="http://sihaixiang.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
